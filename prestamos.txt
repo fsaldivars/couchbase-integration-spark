@@ -1,0 +1,3 @@
+montoPrestamo, mesPrestamo, diaPrestamo, anioPrestamo, idCliente, pago1,movimiento2,movimiento3,movimiento4
+100,01,23,2015, 1,2399,387872,90923
+2110,02,23,2016, 2,99,4872,23,89
